@@ -1,0 +1,44 @@
+/*-----footer css-----*/
+.footer{
+	width: 100%;
+		background-color: #222222;
+		color: white;
+}
+
+.foot-flex{
+	display: flex;
+	width: 1024px;
+	flex-wrap: wrap;
+	flex-direction: row;
+	margin: 0 auto;
+}
+
+.copy-right{
+	text-align: center;
+	background-color: #333333;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.contact_foot p{
+	line-height: 70%;
+}
+
+.contact_foot, .logo_foot, .hours_foot{
+	width: 33.3%;
+}
+
+.logo_foot{
+	text-align: center;
+}
+
+.hours_foot{
+	padding-left: 100px;
+}
+
+.logo_foot img{
+	width: 60%;
+	padding-top: 100px;
+
+}
